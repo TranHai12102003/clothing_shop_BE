@@ -1,0 +1,653 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LuanVan\\Clothing_shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\mappings\\categorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\mappings\\categorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\repositories\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\repositories\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\repositories\\irepositories\\icategoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\repositories\\irepositories\\icategoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\services\\iservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\services\\iservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\clothing_shop.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\clothing_shop.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\vmodel\\categoryvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\vmodel\\categoryvmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\entities\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\entities\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\entities\\variant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\entities\\variant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\entities\\customertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\entities\\customertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\entities\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\entities\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\entities\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\common\\models\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\common\\models\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\entities\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\entities\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\entities\\variantpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\entities\\variantpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\clothing_shop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\clothing_shop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\common\\models\\paginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\common\\models\\paginationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\common\\models\\paymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\common\\models\\paymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\common\\models\\paymentinfomationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\common\\models\\paymentinfomationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\entities\\inventorytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\entities\\inventorytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\entities\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\entities\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\entities\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\entities\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\entities\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\entities\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|d:\\luanvan\\clothing_shop\\clothing_shop\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D926E02-BBAC-4E83-84CA-F9EDCFAA6C5F}|Clothing_shop\\Clothing_shop.csproj|solutionrelative:clothing_shop\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Clothing_shop\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA1wBsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:45:49.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Services\\IService\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Services\\IService\\ICategoryService.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Services\\IService\\ICategoryService.cs",
+              "RelativeToolTip": "Clothing_shop\\Services\\IService\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:24:55.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Entities\\Category.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Category.cs",
+              "RelativeToolTip": "Clothing_shop\\Entities\\Category.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:33:28.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoryRepo.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Repositories\\IRepositories\\ICategoryRepo.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Repositories\\IRepositories\\ICategoryRepo.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Repositories\\IRepositories\\ICategoryRepo.cs",
+              "RelativeToolTip": "Clothing_shop\\Repositories\\IRepositories\\ICategoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:47:04.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Repositories\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Repositories\\CategoryRepo.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Repositories\\CategoryRepo.cs",
+              "RelativeToolTip": "Clothing_shop\\Repositories\\CategoryRepo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:15:32.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryMapping.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Mappings\\CategoryMapping.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Mappings\\CategoryMapping.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Mappings\\CategoryMapping.cs",
+              "RelativeToolTip": "Clothing_shop\\Mappings\\CategoryMapping.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA0wBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:28:58.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Clothing_shop\\Services\\CategoryService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswDEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:26:00.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Program.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Program.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Program.cs",
+              "RelativeToolTip": "Clothing_shop\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:21:14.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Clothing_shop\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAmwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:02:54.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Clothing_shop.http",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Clothing_shop.http",
+              "RelativeDocumentMoniker": "Clothing_shop\\Clothing_shop.http",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Clothing_shop.http",
+              "RelativeToolTip": "Clothing_shop\\Clothing_shop.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-08T04:57:03.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryVModel.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\VModel\\CategoryVModel.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\VModel\\CategoryVModel.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\VModel\\CategoryVModel.cs",
+              "RelativeToolTip": "Clothing_shop\\VModel\\CategoryVModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvwkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:56:57.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\appsettings.json",
+              "RelativeDocumentMoniker": "Clothing_shop\\appsettings.json",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\appsettings.json",
+              "RelativeToolTip": "Clothing_shop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T07:29:03.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Warehouse.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Entities\\Warehouse.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Warehouse.cs",
+              "RelativeToolTip": "Clothing_shop\\Entities\\Warehouse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:48:10.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Variant.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Variant.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Entities\\Variant.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Variant.cs",
+              "RelativeToolTip": "Clothing_shop\\Entities\\Variant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:36:28.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Entities\\Role.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Role.cs",
+              "RelativeToolTip": "Clothing_shop\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:28:17.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Entities\\Product.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Product.cs",
+              "RelativeToolTip": "Clothing_shop\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:34:51.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Entities\\Notification.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Notification.cs",
+              "RelativeToolTip": "Clothing_shop\\Entities\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:52:30.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerType.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\CustomerType.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Entities\\CustomerType.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\CustomerType.cs",
+              "RelativeToolTip": "Clothing_shop\\Entities\\CustomerType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:53:20.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Color.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Color.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Entities\\Color.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Color.cs",
+              "RelativeToolTip": "Clothing_shop\\Entities\\Color.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:36:03.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Entities\\Cart.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Cart.cs",
+              "RelativeToolTip": "Clothing_shop\\Entities\\Cart.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:50:08.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Banner.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Entities\\Banner.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Banner.cs",
+              "RelativeToolTip": "Clothing_shop\\Entities\\Banner.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA1wAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:47:22.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ResponseResult.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Common\\Models\\ResponseResult.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Common\\Models\\ResponseResult.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Common\\Models\\ResponseResult.cs",
+              "RelativeToolTip": "Clothing_shop\\Common\\Models\\ResponseResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:49:25.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Voucher.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Voucher.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Entities\\Voucher.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Voucher.cs",
+              "RelativeToolTip": "Clothing_shop\\Entities\\Voucher.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA6wCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:46:41.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Clothing_shop.csproj",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Clothing_shop.csproj",
+              "RelativeDocumentMoniker": "Clothing_shop\\Clothing_shop.csproj",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Clothing_shop.csproj",
+              "RelativeToolTip": "Clothing_shop\\Clothing_shop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T09:10:10.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VariantPromotion.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\VariantPromotion.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Entities\\VariantPromotion.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\VariantPromotion.cs",
+              "RelativeToolTip": "Clothing_shop\\Entities\\VariantPromotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:44:07.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PaginationModel.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Common\\Models\\PaginationModel.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Common\\Models\\PaginationModel.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Common\\Models\\PaginationModel.cs",
+              "RelativeToolTip": "Clothing_shop\\Common\\Models\\PaginationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:49:22.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PaymentResponseModel.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Common\\Models\\PaymentResponseModel.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Common\\Models\\PaymentResponseModel.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Common\\Models\\PaymentResponseModel.cs",
+              "RelativeToolTip": "Clothing_shop\\Common\\Models\\PaymentResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:49:24.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PaymentInfomationModel.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Common\\Models\\PaymentInfomationModel.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Common\\Models\\PaymentInfomationModel.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Common\\Models\\PaymentInfomationModel.cs",
+              "RelativeToolTip": "Clothing_shop\\Common\\Models\\PaymentInfomationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:49:23.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Entities\\User.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\User.cs",
+              "RelativeToolTip": "Clothing_shop\\Entities\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:31:22.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Entities\\OrderDetail.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "Clothing_shop\\Entities\\OrderDetail.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:50:46.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Entities\\Order.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Order.cs",
+              "RelativeToolTip": "Clothing_shop\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:48:44.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "InventoryTransaction.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\InventoryTransaction.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Entities\\InventoryTransaction.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\InventoryTransaction.cs",
+              "RelativeToolTip": "Clothing_shop\\Entities\\InventoryTransaction.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAEBQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:49:39.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Size.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Size.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Entities\\Size.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Size.cs",
+              "RelativeToolTip": "Clothing_shop\\Entities\\Size.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:35:42.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Promotion.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Promotion.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Entities\\Promotion.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Promotion.cs",
+              "RelativeToolTip": "Clothing_shop\\Entities\\Promotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:40:40.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\ProductImage.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Entities\\ProductImage.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\ProductImage.cs",
+              "RelativeToolTip": "Clothing_shop\\Entities\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:37:07.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Entities\\Payment.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Payment.cs",
+              "RelativeToolTip": "Clothing_shop\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:49:24.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "Clothing_shop\\Entities\\Comment.cs",
+              "ToolTip": "D:\\LuanVan\\Clothing_shop\\Clothing_shop\\Entities\\Comment.cs",
+              "RelativeToolTip": "Clothing_shop\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:52:16.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
