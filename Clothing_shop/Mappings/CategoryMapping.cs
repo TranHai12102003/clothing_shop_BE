@@ -1,4 +1,5 @@
-﻿using Clothing_shop.Entities;
+﻿using Clothing_shop.Common.Contansts;
+using Clothing_shop.Entities;
 using Clothing_shop.VModel;
 
 namespace Clothing_shop.Mappings
@@ -7,7 +8,7 @@ namespace Clothing_shop.Mappings
     {
         public static CategoryGetVModel EntityToVModel(Category category)
         {
-            return new CategoryGetVModel
+            var categoryVModel= new CategoryGetVModel
             {
                 Id = category.Id,
                 CategoryName = category.CategoryName,
@@ -17,6 +18,15 @@ namespace Clothing_shop.Mappings
                 UpdatedDate = category.UpdatedDate,
                 IsActive = category.IsActive
             };
+            if (category.ParentCategory != null)
+            {
+                categoryVModel.ParentCategory = new IdNameVModel
+                {
+                    Id = category.ParentCategory.Id,
+                    Name = category.ParentCategory.CategoryName
+                };
+            }
+            return categoryVModel;
         }
         public static Category VModelToEntity(CategoryCreateVModel categoryVModel)
         {
