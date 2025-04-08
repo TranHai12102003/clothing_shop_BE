@@ -1,4 +1,5 @@
-﻿using OA.Domain.Common.Constants;
+﻿using Clothing_shop.Common.Contansts;
+using OA.Domain.Common.Constants;
 
 namespace Clothing_shop.VModel
 {
@@ -18,6 +19,7 @@ namespace Clothing_shop.VModel
     {
         public DateTime CreatedDate { get; set; } = DateTime.Now;
         public DateTime? UpdatedDate { get; set; }
+        public IdNameVModel ParentCategory { get; set; }
     }
     public class CategoryFilterParams
     {
