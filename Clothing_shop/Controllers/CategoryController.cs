@@ -81,9 +81,63 @@ namespace Clothing_shop.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<ResponseResult> Update(int id, [FromBody] CategoryUpdateVModel model)
+        public async Task<ActionResult<ResponseResult>> Update(int id, [FromForm] CategoryUpdateVModel model, IFormFile ImageFile)
         {
-            return await _categoryService.UpdateCategory(id, model);
+            try
+            {
+                // Kiểm tra danh mục có tồn tại hay không
+                var existingCategory = await _categoryService.GetCategoryById(id);
+                if (existingCategory == null)
+                {
+                    return NotFound(new ErrorResponseResult("Không tìm thấy danh mục"));
+
+                }
+                // Xử lý upload ảnh nếu có ảnh mới
+                string imageUrl = existingCategory.Value?.ImageUrl; // Giữ ảnh cũ nếu không có ảnh mới
+                if (ImageFile != null && ImageFile.Length > 0)
+                {
+                    string[] allowedExtensions = { ".jpg", ".jpeg", ".png", ".gif" };
+                    var fileExtension = Path.GetExtension(ImageFile.FileName).ToLower();
+
+                    if (!allowedExtensions.Contains(fileExtension))
+                        return BadRequest(new { Message = "Unsupported file type" });
+
+                    var uploadParams = new ImageUploadParams
+                    {
+                        File = new FileDescription(ImageFile.FileName, ImageFile.OpenReadStream()),
+                        Transformation = new Transformation().Width(500).Height(500).Crop("fill"),
+                        Folder = "upload_clothingshop", //Chỉ định folder
+                        UseFilename = true,
+                        UniqueFilename = false // hoặc true nếu bạn muốn Cloudinary tự thêm hậu tố ngẫu nhiên
+                    };
+
+                    var uploadResult = await _cloudinary.UploadAsync(uploadParams);
+
+                    if (uploadResult.Error != null)
+                    {
+                        _logger.LogError("Cloudinary upload error: {ErrorMessage}", uploadResult.Error.Message);
+                        return BadRequest(new { Message = $"Cloudinary upload failed: {uploadResult.Error.Message}" });
+                    }
+
+                    imageUrl = uploadResult.SecureUrl.AbsoluteUri;
+                }
+
+                // Gọi service để cập nhật sản phẩm
+                model.ImageUrl = imageUrl; // Cập nhật URL ảnh vào model
+                var result = await _categoryService.UpdateCategory(id, model);
+
+                if (!result.IsSuccess)
+                {
+                    return BadRequest(new { Message = result.Message });
+                }
+
+                return Ok(new { Message = "Product updated successfully", ProductId = id });
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError("Error updating product: {Error}", ex.Message);
+                return StatusCode(500, new { Message = ex.Message });
+            }
         }
 
         [HttpDelete("{id}")]
