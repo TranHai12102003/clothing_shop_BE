@@ -15,9 +15,11 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 // Đăng ký dịch vụ Service
 builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<IColorService, ColorService>();
 
 // Đăng lớp Repository
 builder.Services.AddScoped<ICategoryRepo, CategoryRepo>();
+builder.Services.AddScoped<IColorRepo, ColorRepo>();
 
 // . Cloudinary
 var cloudinarySettings = builder.Configuration.GetSection("CloudinarySettings").Get<CloudinarySettings>();
