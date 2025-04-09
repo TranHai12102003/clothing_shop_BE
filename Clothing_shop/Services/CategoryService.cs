@@ -78,6 +78,7 @@ namespace Clothing_shop.Services
                 entity.CategoryName = category.CategoryName;
                 entity.ParentCategoryId = category.ParentCategoryId;
                 entity.UpdatedDate = DateTime.Now;
+                entity.ImageUrl = category.ImageUrl;
                 entity.IsActive = category.IsActive;
                 await _categoryRepo.UpdateAsync(entity);
 
