@@ -16,10 +16,12 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 // Đăng ký dịch vụ Service
 builder.Services.AddScoped<ICategoryService, CategoryService>();
 builder.Services.AddScoped<IColorService, ColorService>();
+builder.Services.AddScoped<IRoleService, RoleService>();
 
 // Đăng lớp Repository
 builder.Services.AddScoped<ICategoryRepo, CategoryRepo>();
 builder.Services.AddScoped<IColorRepo, ColorRepo>();
+builder.Services.AddScoped<IRoleRepo, RoleRepo>();
 
 // . Cloudinary
 var cloudinarySettings = builder.Configuration.GetSection("CloudinarySettings").Get<CloudinarySettings>();
