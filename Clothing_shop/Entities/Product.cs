@@ -15,14 +15,11 @@ namespace Clothing_shop.Entities
 
         public string Description { get; set; }
 
-        [ForeignKey("Brand")]
-        public int BrandId { get; set; }
-
         [ForeignKey("Category")]
         public int CategoryId { get; set; }
 
         public DateTime CreatedDate { get; set; } = DateTime.Now;
-        public DateTime? UpdatedDate { get; set; } = DateTime.Now;
+        public DateTime? UpdatedDate { get; set; }
 
         public virtual Category Category { get; set; }
         public virtual ICollection<Variant> Variants { get; set; }
