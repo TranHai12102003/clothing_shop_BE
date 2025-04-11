@@ -21,7 +21,7 @@ namespace Clothing_shop.Controllers
         public async Task<ActionResult<PaginationModel<ProductGetVModel>>> GetAll([FromQuery] ProductFilterParams parameters)
         {
             var products = await _productService.GetAll(parameters);
-            return Ok(products);
+            return products;
         }
         [HttpGet("{id}")]
         public async Task<ActionResult<ProductGetVModel>> GetById(int id)
@@ -31,13 +31,13 @@ namespace Clothing_shop.Controllers
             {
                 return NotFound("Không tìm thấy sản phẩm");
             }
-            return Ok(product);
+            return product;
         }
         [HttpGet("category/{categoryId}")]
         public async Task<ActionResult<PaginationModel<ProductGetVModel>>> GetByCategoryId([FromQuery] ProductFilterParams parameters, int categoryId)
         {
             var products = await _productService.GetByCategoryId(parameters, categoryId);
-            return Ok(products);
+            return products;
         }
         [HttpPost]
         public async Task<ActionResult<ResponseResult>> Create([FromForm] ProductCreateVModel product)
