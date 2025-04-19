@@ -21,6 +21,7 @@ builder.Services.AddScoped<ISizeService, SizeService>();
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddScoped<IVariantService, VariantService>();
 builder.Services.AddScoped<IPromotionService, PromotionService>();
+builder.Services.AddScoped<ICustomerTypeService, CustomerTypeService>();
 
 // Đăng lớp Repository
 builder.Services.AddScoped<ICategoryRepo, CategoryRepo>();
@@ -30,7 +31,7 @@ builder.Services.AddScoped<ISizeRepo, SizeRepo>();
 builder.Services.AddScoped<IProductRepo, ProductRepo>();
 builder.Services.AddScoped<IVariantRepo, VariantRepo>();
 builder.Services.AddScoped<IPromotionRepo, PromotionRepo>();
-
+builder.Services.AddScoped<ICustomerTypeRepo, CustomerTypeRepo>();
 // . Cloudinary
 var cloudinarySettings = builder.Configuration.GetSection("CloudinarySettings").Get<CloudinarySettings>();
 builder.Services.AddSingleton(new Cloudinary(new Account(
